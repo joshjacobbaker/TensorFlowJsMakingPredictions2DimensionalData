@@ -1,0 +1,35 @@
+{
+    "version": 2,
+    "nodejs": "14.17.4",
+    "sheet": {
+        "id": "b6dfa6a0-3b6c-11ec-b8a9-b5db6ec0e2b7",
+        "language": "javascript",
+        "cells": [
+            {
+                "id": "d5481320-3b6c-11ec-b8a9-b5db6ec0e2b7",
+                "cellType": "markdown",
+                "code": "# Tensor Flow JavaScript in CodeLab \n[URL to Tutorial](https://codelabs.developers.google.com/codelabs/tfjs-training-regression#0)",
+                "output": [],
+                "errors": [],
+                "height": 101
+            },
+            {
+                "id": "018dd870-3b6d-11ec-b8a9-b5db6ec0e2b7",
+                "cellType": "markdown",
+                "code": "## 1. Introduction\n\n### What you will build\n\n- Load the data and prepare it for training \n- Define the architecture of the model\n- Train the model and monitor its performance as it trains.\n- Evaluate the trained model by making some predictions.\n\n\n### What you'll learn\n\n- tf.layers API\n- tfjs-vis library\n\n### What you'll need\n\n- HTML\n- CSS\n- JS",
+                "output": [],
+                "errors": [],
+                "height": 443
+            },
+            {
+                "id": "b6dfa6a1-3b6c-11ec-b8a9-b5db6ec0e2b7",
+                "cellType": "code",
+                "cellScope": "global",
+                "code": "",
+                "output": [],
+                "errors": [],
+                "height": 82
+            }
+        ]
+    }
+}
