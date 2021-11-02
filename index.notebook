@@ -11,7 +11,7 @@
                 "code": "# Tensor Flow JavaScript in CodeLab \n[URL to Tutorial](https://codelabs.developers.google.com/codelabs/tfjs-training-regression#0)",
                 "output": [],
                 "errors": [],
-                "height": 101
+                "height": 115
             },
             {
                 "id": "018dd870-3b6d-11ec-b8a9-b5db6ec0e2b7",
@@ -19,16 +19,55 @@
                 "code": "## 1. Introduction\n\n### What you will build\n\n- Load the data and prepare it for training \n- Define the architecture of the model\n- Train the model and monitor its performance as it trains.\n- Evaluate the trained model by making some predictions.\n\n\n### What you'll learn\n\n- tf.layers API\n- tfjs-vis library\n\n### What you'll need\n\n- HTML\n- CSS\n- JS",
                 "output": [],
                 "errors": [],
-                "height": 443
+                "height": 406
             },
             {
-                "id": "b6dfa6a1-3b6c-11ec-b8a9-b5db6ec0e2b7",
-                "cellType": "code",
-                "cellScope": "global",
-                "code": "",
+                "id": "013dbaa0-3b83-11ec-829f-13953d36b786",
+                "cellType": "markdown",
+                "code": "## 2. Get set up",
                 "output": [],
                 "errors": [],
-                "height": 82
+                "height": 73
+            },
+            {
+                "id": "0d5e6f50-3b83-11ec-829f-13953d36b786",
+                "cellType": "markdown",
+                "code": "## 3. Load, format, and visualize the input data",
+                "output": [],
+                "errors": [],
+                "height": 73
+            },
+            {
+                "id": "1a15beb0-3b83-11ec-829f-13953d36b786",
+                "cellType": "markdown",
+                "code": "## 4. Define the model architecture",
+                "output": [],
+                "errors": [],
+                "height": 73
+            },
+            {
+                "id": "23cbdc00-3b83-11ec-829f-13953d36b786",
+                "cellType": "markdown",
+                "code": "## 5. Prepare the data for training",
+                "output": [],
+                "errors": [],
+                "height": 73
+            },
+            {
+                "id": "2b8e3fa0-3b83-11ec-829f-13953d36b786",
+                "cellType": "markdown",
+                "code": "## 6. Train the model [url](https://codelabs.developers.google.com/codelabs/tfjs-training-regression#5)",
+                "output": [],
+                "errors": [],
+                "height": 73
+            },
+            {
+                "id": "20038c90-3b87-11ec-9a0b-87a1e1e1fb4b",
+                "cellType": "markdown",
+                "code": "## 7. Make Predictions [url](https://codelabs.developers.google.com/codelabs/tfjs-training-regression#6)",
+                "output": [],
+                "errors": [],
+                "height": 73
             }
         ]
     }
